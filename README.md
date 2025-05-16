@@ -1,10 +1,10 @@
-## Ana Matos
+## Hello! I'm Ana Matos
 
-Atualmente curso Análise e Desenvolvimento de Sistemas (ADS), com foco em Python, lógica de programação e banco de dados.
+I am currently studying Systems Analysis and Development (ADS), focusing on Python, programming logic and database.
 
-Estou participando do programa Google Cloud Career Readiness (GCCF), aprofundando meu conhecimento em soluções em nuvem e boas práticas em desenvolvimento de sistemas.
+I’m participating in the Google Cloud Career Readiness (GCCF) program, deepening my knowledge of cloud solutions and best practices in systems development.
 
-Valorizo a tecnologia como ferramenta de transformação, aliando fundamentos técnicos à escuta ativa, ética, consistência e aprendizado contínuo.
+I value technology as a tool for transformation, combining technical foundations with active listening, ethics, consistency and continuous learning.
 
 <img src="https://github-profile-trophy.vercel.app/?username=anamatos1&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="Troféus GitHub de Ana Matos"/>
 
